@@ -9,7 +9,7 @@ Journal*, 147 (2-3), 287-296.
 ## Image Comparison 
 A comparison of Figure S1 in Wu and Chien<sup>1</sup> and Figure 3a in Bian et al.<sup>2</sup> with data extracted using MATLAB image analysis. 
 
-<img align="left" width="50%" height="50%" src="https://github.com/danyjiang/ech158c/blob/master/Wu%20and%20Chien%20FigureS1.PNG">
+<img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Wu%20and%20Chien%20FigureS1.PNG">
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%20S1%20Reproduced.png"> 
 
@@ -17,6 +17,3 @@ A comparison of Figure S1 in Wu and Chien<sup>1</sup> and Figure 3a in Bian et a
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png"> 
 
-
-
-## i hate markdown
