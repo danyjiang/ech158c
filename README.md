@@ -2,7 +2,7 @@
 A senior design group in the Chemical Engineering Department at University of California, Davis has worked on analyzing an equilibrium reaction model for the direct synthesis of dimethyl carbonate <sup>1,2</sup>.
 
 ## Image Comparison 
-
+<p>
 <img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg">
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png">
@@ -11,6 +11,7 @@ A senior design group in the Chemical Engineering Department at University of Ca
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%20S1%20Reproduced.png"> 
 
+</p>
 
 
 ## References
