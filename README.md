@@ -1,13 +1,14 @@
 ## About 
 A senior design group in the Chemical Engineering Department at University of California, Davis has worked on analyzing an equilibrium reaction model for the direct synthesis of dimethyl carbonate <sup>1,2</sup>.
 
-
-
-## Image Comparison 
+## Image Comparisons (Figure S1)
 A comparison of Figure S1 in Wu and Chien<sup>1</sup> with data extracted using MATLAB image analysis. 
 
 ![Figure S1](https://github.com/danyjiang/ech158c/blob/master/Wu%20and%20Chien%20FigureS1.PNG)
 ![Figure S1 Reproduced](https://github.com/danyjiang/ech158c/blob/master/Figure%20S1%20Reproduced.png)
+
+
+## Image Comparisons (Figure 3a) 
 
 A comparison of Figure 3a in Bian et al.<sup>2</sup> with data extracted using MATLAB image analysis.
 ![Figure 3a](https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg)
