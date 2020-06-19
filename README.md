@@ -7,10 +7,13 @@ A senior design group in the Chemical Engineering Department at University of Ca
 Journal*, 147 (2-3), 287-296.
 
 ## Image Comparison 
+A comparison of Figure 3a in Bian et al.<sup>2</sup> with data extracted using MATLAB image analysis. 
 
 <img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg">
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png">
+
+A comparison of Figure S1 in Wu and Chien<sup>1</sup> with data extracted using MATLAB image analysis. 
 
 <img align="left" width="50%" height="50%" src="https://github.com/danyjiang/ech158c/blob/master/Wu%20and%20Chien%20FigureS1.PNG">
 
