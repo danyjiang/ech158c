@@ -1,5 +1,5 @@
 ## About 
-A senior design group in the Chemical Engineering Department at University of California, Davis has worked on analyzing an equilibrium reaction model for the direct synthesis of dimethyl carbonate <sup>1,2</sup>.
+A senior design group in the Chemical Engineering Department at University of California, Davis has worked on analyzing an equilibrium reaction model for the direct synthesis of dimethyl carbonate <sup>1,2</sup>. Analysis was done on 'equilibrium_model.m' MATLAB script.
 
 ## Image Comparisons (Figure S1)
 A comparison of Figure S1 in Wu and Chien<sup>1</sup> with data extracted using MATLAB image analysis. 
