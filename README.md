@@ -1,6 +1,5 @@
-# ech158c 
-A brief analysis on the validity of equilibrium reaction model for direct synthesis of dimethyl carbonate.
-
+## About 
+A senior design group in the Chemical Engineering Department at University of California, Davis has worked on analyzing an equilibrium reaction model for the direct synthesis of dimethyl carbonate <sup>1,2</sup>
 
 ## Image Comparison 
 
