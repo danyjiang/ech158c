@@ -11,7 +11,7 @@ A comparison of Figure 3a in Bian et al.<sup>2</sup> with data extracted using M
 
 <img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg">
 
-<img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png">
+<img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png"> <br />
 
 A comparison of Figure S1 in Wu and Chien<sup>1</sup> with data extracted using MATLAB image analysis. 
 
