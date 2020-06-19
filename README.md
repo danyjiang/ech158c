@@ -11,7 +11,7 @@ Journal*, 147 (2-3), 287-296.
 <img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg">
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png">
-
+</br>
 <img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Wu%20and%20Chien%20FigureS1.PNG">
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%20S1%20Reproduced.png"> 
