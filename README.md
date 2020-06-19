@@ -10,7 +10,7 @@ A senior design group in the Chemical Engineering Department at University of Ca
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%20S1%20Reproduced.png"> 
 
 
-<br/> 
+
 ## References
 1. Wu, T. W., & Chien, I. L. (2019). CO2 Utilization Feasibility Study: Dimethyl Carbonate Direct Synthesis Process with Dehydration Reactive Distillation. *Industrial & Engineering Chemistry Research*, 59, 3, 1234-1248.
 2. Bian, J., Xiao, M., Wang, S., Wang, X., Lu, Y., & Meng, Y. (2009). Highly Effective Synthesis of Dimethyl Carbonate from Methanol and Carbon Dioxide using a Novel Copper–Nickel/Graphite Bimetallic Nanocomposite Catalyst. *Chemical Engineering
