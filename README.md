@@ -13,7 +13,7 @@ A comparison of Figure S1 in Wu and Chien<sup>1</sup> and Figure 3a in Bian et a
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%20S1%20Reproduced.png"> 
 
-<img align="left" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg">
+<img align="left" width="55%" height="55%" src="https://github.com/danyjiang/ech158c/blob/master/Bian%20et%20al%20Figure3a.jpg">
 
 <img align="right" width="45%" height="45%" src="https://github.com/danyjiang/ech158c/blob/master/Figure%203a%20Reproduced.png"> 
 
